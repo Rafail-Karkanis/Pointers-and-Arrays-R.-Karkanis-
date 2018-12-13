@@ -1,4 +1,4 @@
-# Pointers-and-Arrays-R.-Karkanis-
+# Pointers and Arrays R. Karkanis
 
 Annotated C90 codes I've written as complementary material for two seminars:
 [6-11-2018] Intro to Pointer Variables (A. Zacharia & R. Karkanis)
